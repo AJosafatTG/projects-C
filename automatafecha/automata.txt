@@ -1,0 +1,6 @@
+01/12/0001 = FechaValida
+31/01/2023 = FechaValida
+16/08/2000 = FechaValida
+32/12/2022 = FechaInvalida
+01/13/2010 = FechaInvalida
+15/01/0000 = FechaInvalida
